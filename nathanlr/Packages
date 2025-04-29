@@ -1,0 +1,15 @@
+Package: com.nathan.systemfiles
+Version: 1.8.4-19
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Conflicts: com.nathan.systemfiles164, com.nathan.systemfiles165, com.nathan.launchd
+Filename: ./debs/sysfiles.deb
+Size: 4572600
+MD5sum: 432d89a08a1713699daefd575bfa4236
+SHA1: 9ec0e1c5bfe600f17fa38e5668d7707a1b7b688c
+SHA256: bea6fd99bb60f938b12fd1b656d92aad317a31461641ee3b7d6084422de61093
+Section: System
+Description: Files for my semi-jailbreak
+Author: Nathan
+Name: SystemFiles
+

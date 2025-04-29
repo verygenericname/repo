@@ -1,0 +1,1635 @@
+Package: com.lns.pogr
+Version: 0.3.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lns.pogr_0.3.1_iphoneos-arm64.deb
+Size: 70318
+MD5sum: 28294683330ed3e110340c69bba2d9dc
+SHA1: 87eddf4226e9ef6e3a310488e6c4fe1a4ed486b4
+SHA256: e2b9aca8a8889eb14927b3dee062548640afd8e5c6465d0b67ebc41f29888021
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.lns.pogr
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lns.pogr_0.4_iphoneos-arm64.deb
+Size: 70180
+MD5sum: b6378fd77624286278d56c3b27878ac1
+SHA1: bf4f0c0017c02368e1f5dd4f56f5c70be88575e9
+SHA256: c316e5d6d59f0ff04ab3d5f499c97695dd18015773056525a77a2ec8498cfd60
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.lns.pogr
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lns.pogr_0.4.1_iphoneos-arm64.deb
+Size: 70228
+MD5sum: b35ff5c5d83bb7d6cd3190ff1d088ffe
+SHA1: f6f751464e552f415cdc2428d6ae342d03bb3afb
+SHA256: c5c74054e50e94307c48877fd89801c4c2ecea99f54c29bb3eb72cd17c9af9c4
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.lns.pogr
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lns.pogr_0.4.2_iphoneos-arm64.deb
+Size: 70204
+MD5sum: 9b9b6200aecebe3ad7727f323ecad62e
+SHA1: 9f293f1fa3144dc424f875069544ea793c382c6c
+SHA256: bb87a7496118e575288f0c346cfdf828affbe7496558b4444cf4f6e618d934d1
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.lns.pogr
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.lns.pogr_0.4.3_iphoneos-arm64.deb
+Size: 70166
+MD5sum: 8e2b0bff6f4ec3bb76b083ddd2bcf98b
+SHA1: 78b2fe34b1d0ab508288133f6e2b89d2371f7b24
+SHA256: d106c1e012052207ad64bac43b0aee80f2a6f6a5e6f23e8624ccbbd0d56fca4c
+Section: Tweaks
+Description: Treat AirPods Pro 2 correctly
+Author: Ruphane
+Name: PodsGrant
+
+Package: com.nathan.360spammer
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.360spammer_1.0.0_iphoneos-arm64.deb
+Size: 6510
+MD5sum: 1e073d72236f4d128a1bcf5788844043
+SHA1: d6c3e89192c409055e1638fae6ded5290a5fcf31
+SHA256: 3054f5edba42a48a21b3d7c74cddaca0e39a705b102af52edeaff84d6e5e82f6
+Section: Tweaks
+Description: A tweak that spams someone on Life360 when you hold the "Love location" button
+Author: Nathan Senter
+Name: 360Spammer
+
+Package: com.nathan.360spammer
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.360spammer_1.0.2_iphoneos-arm64.deb
+Size: 4038
+MD5sum: 4438db83d382ce9fcc7c3c1394e7817d
+SHA1: 0960f859a4eac17b6847adf71fac48a71ef56924
+SHA256: 1ddc4955b4b9f4bf8165e269fdbff8ac423a604382e13badc006e859870d02a5
+Section: Tweaks
+Description: A tweak that spams someone on Life360 when you hold the "Love location" button
+Author: Nathan Senter
+Name: 360Spammer
+
+Package: com.nathan.360spammer
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.360spammer_1.0.3_iphoneos-arm64.deb
+Size: 4456
+MD5sum: ae84959ce459f2dfd3ee42952aaf94a2
+SHA1: 4f2be91dbf78608a688f7d3d3ed5d6aa546b4c91
+SHA256: 17d9cac87bec03b76c5691268cc446d69847b48f8d35aed608cb13f4aac7eb2f
+Section: Tweaks
+Description: A tweak that spams someone on Life360 when you hold the "Love location" button
+Author: Nathan Senter
+Name: 360Spammer
+
+Package: com.nathan.batterycli
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Filename: ./debs/com.nathan.batterycli_1.0_iphoneos-arm64.deb
+Size: 4952
+MD5sum: e66d00d243ec4775a2cc7b6def523648
+SHA1: 38dd432e634e9b3a990fac1bf16a12b95ac34a62
+SHA256: 0260e1d6a207b291e1d5487690192a3d1edfd76b2ddfc2af5c62d2c4eeb44b65
+Section: System
+Description: Simple cli tool that reads battery percent and prints it out
+Tag: role::hacker
+Author: Nathan
+Name: BatteryCLI
+
+Package: com.nathan.batterycli
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 212
+Filename: ./debs/com.nathan.batterycli_1.0_iphoneos-arm.deb
+Size: 4796
+MD5sum: 544db194df4ec14c5fc0015e45ca4b00
+SHA1: b459126fe6ba2188834c0aac8f1d090246cb2c92
+SHA256: 72f0a66f2148043715f40fefc712a8e497960e2bb1e329c7c901a73078dcf0f3
+Section: System
+Description: Simple cli tweak that reads battery percent and prints it out
+Tag: role::hacker
+Author: Nathan
+Name: BatteryCLI
+
+Package: com.nathan.bubblecolor
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.0_iphoneos-arm64.deb
+Size: 5516
+MD5sum: 29b58361e941372fecc3a204aeeb5b29
+SHA1: c79be31a63b48f712443e955f66d98b32ce39c74
+SHA256: 6911ff56f95735c0dffd98753087afa4476dc7bddc9781fe83dfc7fabe4990a0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: bubblecolor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.0_iphoneos-arm.deb
+Size: 5434
+MD5sum: ffecea3950951413ad8f91b5d4b57eef
+SHA1: 25e573d01101a294464074f46e8c1bb7132e45b1
+SHA256: a87cb50585ba2cc0cccc7d974b97c35692d291875b4fe69464451544ba2af83b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: bubblecolor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.1_iphoneos-arm64.deb
+Size: 7516
+MD5sum: 1454d6e43937ef1c74e8fee3455d5652
+SHA1: 61f91b0f5f5a04803095dc14057e4617670f8a37
+SHA256: 55f9cbb3fa2dd566377a5c913f1e87de5607c22affb0a1509e43802201ce4053
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: bubblecolor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.1_iphoneos-arm.deb
+Size: 7520
+MD5sum: 49466631c3bb5344902ef363310dce5a
+SHA1: 674f4b2a498537dd6d3ba134b18c2034252e792e
+SHA256: 1c204e9cea8aaf74596117e38d3727f660b38f77ecd143294166f4ed19bcba25
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: bubblecolor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.2_iphoneos-arm.deb
+Size: 10102
+MD5sum: 1c3b553fd0b563b6dbc41f90ce5969f6
+SHA1: d3511be0eb258d5ccb40c33562c0e7e3ed1541be
+SHA256: cb6d8996289cb1c6b3e4ccb147fae30a6c56261ca565e5ac52d4dddc46c62d45
+Section: Tweaks
+Description: Tweak that lets you change the color of your bubbles in Messages app
+Author: Nathan Senter
+Name: BubbleColor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.2_iphoneos-arm64.deb
+Size: 10070
+MD5sum: 5b3396aeaee6b3dace56df38c85d8c89
+SHA1: d12617529c13d48594dfb76d0cab8821f44a4232
+SHA256: dcf5a2e14cd37afe1653eabac93a3ab50a03e34855a6933520111eba365184f1
+Section: Tweaks
+Description: Tweak that lets you change the color of your bubbles in Messages app
+Author: Nathan Senter
+Name: BubbleColor
+
+Package: com.nathan.bubblecolor
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.bubblecolor_1.0.3_iphoneos-arm64.deb
+Size: 10122
+MD5sum: acb4140c872eb1ddec6c2f4c6ef4c3c2
+SHA1: 9e900c8c94e711234996cbaf11177d4c021f1262
+SHA256: 70b8a95078233a9d050f99c07351be3dcfb0760621a49a4b0ea8fed05f4d796d
+Section: Tweaks
+Description: Tweak that lets you change the color of your bubbles in Messages app
+Author: Nathan Senter
+Name: BubbleColor
+
+Package: com.nathan.dobbyshim
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode, ellekit
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate, ellekit
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/dobby.deb
+Size: 52100
+MD5sum: 1f50d87edeedb624881d7bd070a15c82
+SHA1: 631e6745b2b2bd0b3e35047f9220a25703113a3f
+SHA256: 0bde2ed8b0c33a74c5f7d25251ac739b815fc822e476094f2b3731a0b51bdb30
+Section: Tweak Injection
+Priority: optional
+Description: DobbyHook Substrate Shim
+Author: Nathan, jmpews
+Name: DobbyShim
+
+Package: com.nathan.dynamichiderecordland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64.deb
+Size: 3004
+MD5sum: 476ee373ab4b93fa51d1a1a7a889241a
+SHA1: 51416d8af2503b6344842336fe5b1759664a1dd7
+SHA256: 5f7d7b030a1347ab34d99770b8edb2ddf52e37deda41da3da463b2d9a3cf6298
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicHideRecordLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0_iphoneos-arm64.deb
+Size: 3870
+MD5sum: 2ac99efb2df94c392130c3ffb796c9ea
+SHA1: f74bd713e12c5ae02744bddc7956ae02aa3c6277
+SHA256: 2c67a287c317a34e13bff6d27cd6430a6843b33e5823c9258b9b9c2c454d7485
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.1_iphoneos-arm64.deb
+Size: 3818
+MD5sum: 43d485f8fe76c405ad1a4259f4aae51f
+SHA1: 54d7c88c3ff4a2cc2a14f1bc1c54a8e35036a617
+SHA256: dd0c4dedd059195e42314c78bcc88da8208c0a3559cebad84c971808fe3b9a46
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.2_iphoneos-arm64.deb
+Size: 3820
+MD5sum: d82e61a7cae0c90dc4aaf2927c4e13de
+SHA1: 35270081c4ebcfe17457c588d8aa50c3778f6780
+SHA256: 112121b103490f36660b3c6061a6bc84ba5787a6c16344075f732c4d74e452f5
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.3_iphoneos-arm64.deb
+Size: 3546
+MD5sum: 94fcb8c79290ed921364647d06a5a96e
+SHA1: d241b1c891adc9cc6a334be143c2426178802058
+SHA256: 4b66266f2cf4160f41f8df8c77622a34b2eb8d72654cc835981a90ac4d78118f
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.4_iphoneos-arm64.deb
+Size: 3604
+MD5sum: 5e684db1998609a22bb2affc2b1ac588
+SHA1: ddb0fb3d99f8e8d1abe946216ff206f720ba1e19
+SHA256: 4aa750e614ca8bf37dd6e8b0256808777be9aa7c323006698a1acc205ac3f852
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.5_iphoneos-arm64.deb
+Size: 3598
+MD5sum: a7e22fd244c1a8dbe9675213293bd600
+SHA1: a4a2cb676dce9efe60bfbd02312b961412fa0d02
+SHA256: 31b198156c344cab02ce8b639722eb027255e1d7246168860ce5cd60df67b339
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.6_iphoneos-arm64.deb
+Size: 3828
+MD5sum: 94b18b4fbbd048c938590e3e052f379e
+SHA1: ffeb13805ed54ba72c0c78ef8fc1e6c84808b4c4
+SHA256: c80b86702019b945ca58af0974a94bec839c0b82da167c58262f24f6b573e956
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.7_iphoneos-arm64.deb
+Size: 4902
+MD5sum: 6f2988ed785f15944de86ac71aa7ea1e
+SHA1: 948bea4863b84b18b5eb372f2c69924e97d8cc21
+SHA256: e9a3e4978b14620b18a359cbf26fde4cd0532df894ccea816ec359008050a4c7
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.8_iphoneos-arm64.deb
+Size: 4906
+MD5sum: d5e7ff5bf4a2142ee893cdd4a65665a0
+SHA1: 7535013c6ce867c8a997618318c309c0b52ff872
+SHA256: e2feb484396244ae5dd44f0d7c18f3d520e0a6d7fcd81e64c760bfe4cfe3a4ea
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.0.9_iphoneos-arm64.deb
+Size: 10356
+MD5sum: 81995174d7a476d5a7865aadf509f2b4
+SHA1: 555379ef1cfadc0079d72b0b124ff1b4385aaff8
+SHA256: bb419f619ee8b9a821c8ed6460b248a64af443b8fb1d0794cfd026e38b616f64
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.1_iphoneos-arm64.deb
+Size: 10380
+MD5sum: ed6d3dc79da7201d08d18ca5ea343fac
+SHA1: 15569b4bda3a422dc5d567a5c3623f5d4d89823c
+SHA256: f24e21fcce0a342ca5efe2db5a807af5928159e48401c860ca90864110048067
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.1.1_iphoneos-arm64.deb
+Size: 10444
+MD5sum: 7ebc7cbfa98f0b5b22c5e3a032176654
+SHA1: 5e0440e547f48b1a8aae3a34a10b45a04f72cb1e
+SHA256: ef1dd87f4374770996b16097f41ff1e44a67bd085be82fa14e6ae1857581168c
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2_iphoneos-arm64.deb
+Size: 11288
+MD5sum: 0e8bb287a637914afc153682bf710d82
+SHA1: 386d9da6c8e2aac36235494abe30439ddd1d5499
+SHA256: 9ba615038875bce1c18b06a29268d512885a55bffd69173ffbc99a745702d255
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2.1_iphoneos-arm64.deb
+Size: 11258
+MD5sum: ad1e8fd7e3addf9532e037d970408c56
+SHA1: 2e812f3230332aac59c922fb72e599348116c8fc
+SHA256: 3d321512c8154828a559bb8baa2da93bdc599e1cad6429ac87c97466bd496d15
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2.2_iphoneos-arm64.deb
+Size: 11938
+MD5sum: 85e05cffce5e24ed07b8cb6fb656ab35
+SHA1: d8334b3633f7fbb67e4ac9201930ea4d63216be1
+SHA256: 38f00ec5ea93dfb9a1c4fb69483c5724161a1a7a37acdda16926fdbb4bd03ead
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2.3_iphoneos-arm64.deb
+Size: 12030
+MD5sum: 00a2375461a85089ed3789a244a2b968
+SHA1: d7287f027f90ac412d10ac0eddb0cd81c9958eda
+SHA256: 104f9f1dc380646a6a92257d5ce2a68591f6422494048b143d82f2ecdef9cf76
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64.deb
+Size: 12026
+MD5sum: 6bb0d340783038d87aff67f847e51952
+SHA1: dfabc2c6932e20bf3b80664bbecde4059c1fde33
+SHA256: 0525321e179314196b8c747a44a921a2b95ea06739ab5c2f414fdbacfab99113
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
+Package: com.nathan.fr
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.fr_1.0_iphoneos-arm64.deb
+Size: 25196
+MD5sum: f50445874b11d10e04c32355b68a4481
+SHA1: 492db00687ce244d6fd23edd144ab5c39e8b6172
+SHA256: 4ecb3c3f52a77c582cdde00033ba1ed355e4d40b929eba5ab500fbeda43be023
+Section: Tweaks
+Description: fr
+Author: Nathan
+Name: fr
+
+Package: com.nathan.fr
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.fr_1.0_iphoneos-arm.deb
+Size: 25136
+MD5sum: ddc78bec09870f5c1a793f8ec8b6c9a2
+SHA1: 14d9bd006b6977a076c1672f5d32879f96837950
+SHA256: 07d15c48097413a37909961a09b8a367f01526bae9104f9edd6b7e48bd3e0aa2
+Section: Tweaks
+Description: fr
+Author: Nathan
+Name: fr
+
+Package: com.nathan.gdsound
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gdsound_1.0_iphoneos-arm64.deb
+Size: 3262
+MD5sum: a614db245c8aa8b7bbdc4d135775c86f
+SHA1: 3eb1e1e164f4a636fa5f8d3410b73f550bba5ffb
+SHA256: e7b80a9f9d5c126df8162501e8ececd5c3ccdcf0fd9eb8b58318e61effff5bed
+Section: Tweaks
+Description: Tweak to allow sound in mute on all of the geometry dash games!
+Author: Nathan Senter
+Name: GDSound
+
+Package: com.nathan.gdsound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gdsound_1.0_iphoneos-arm.deb
+Size: 3178
+MD5sum: 7e16f7e0d9a3c4ef102c00b2a7d22d78
+SHA1: 9d52fc0cb4e1b8d765f5797a0e170950bc44b9a1
+SHA256: 3af8b686d19719f3490eb160ff8360e1f611e945fd543181321eaa11a4618399
+Section: Tweaks
+Description: Tweak to allow sound in mute on all of the geometry dash games!
+Author: Nathan Senter
+Name: GDSound
+
+Package: com.nathan.gridswitcher
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gridswitcher_1.0.1_iphoneos-arm64.deb
+Size: 2354
+MD5sum: 826c873c1fb288b4b4ad413b7459531e
+SHA1: 4f87ab095e4f8e499c26f4e89f1057ca4076f366
+SHA256: 465573e24daa1b8369b4311d677d5e45a2ecb3f0bd9122a250d5af1c3c5a495e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: gridswitcher
+
+Package: com.nathan.gridswitcher
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gridswitcher_1.0.2_iphoneos-arm64.deb
+Size: 2764
+MD5sum: 9a390864be5f9a766026596d59d3c103
+SHA1: 93033ed8e6b7b00a80925feeee92feed7853c5a1
+SHA256: 5af8b877d107d5c754e2ac13a2088bba1dba645cb92ba04e8455f0e81fd45098
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: gridswitcher
+
+Package: com.nathan.hidepass
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.hidepass_1.0.2_iphoneos-arm64.deb
+Size: 5650
+MD5sum: d8713bae2ca259aab47d21f8d6a8ea64
+SHA1: 1fab694305ce1464353bdc725ab02f6ca7a27b9a
+SHA256: 875245ef74e30206b53ea0fe18225a087f04f109a7a6bc65f4aedb6956132519
+Section: Tweaks
+Description: A tweak to hide the passcode view!
+Author: Nathan Senter
+Name: HidePass
+
+Package: com.nathan.homehider
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.homehider_1.1_iphoneos-arm64.deb
+Size: 2560
+MD5sum: c8119eb54990e72b51eee04820853b8f
+SHA1: 33a3775b1cd3db4b4b8086a29984928e735158c9
+SHA256: c51d0ebff45b851399aaeeeb3efc545191d5693b1f1ef63b12a6bad506ca3fdf
+Section: Tweaks
+Description: Tweak to hide your homebar!
+Author: Nathan Senter
+Name: HomeHider
+
+Package: com.nathan.homehider
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.homehider_1.1_iphoneos-arm.deb
+Size: 2488
+MD5sum: 94a6c36646b40d9998a75c759c6040f2
+SHA1: b3124eac62669e46b4d144a77d7d5408499ef9fa
+SHA256: 6385a51cc835e0d758f8e675895afde06014a4536f84e135bf7b10593fcf24ca
+Section: Tweaks
+Description: Tweak to hide your homebar!
+Author: Nathan Senter
+Name: HomeHider
+
+Package: com.nathan.internalstoragesettings
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb
+Size: 3860
+MD5sum: a8d5cabab357fd08bec861648ec9dbeb
+SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
+SHA256: e592d1cfc5670fe90f86221722ed62ff60a5a24bd7e29b4c532062d1b5aac66c
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Name: InternalStorageSettings
+
+Package: com.nathan.internalstoragesettings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm.deb
+Size: 3792
+MD5sum: 80e794aadf57d760ed10919910484247
+SHA1: 832516c8b6ddba2ab50e40542ae782d914b3766e
+SHA256: b4210757494491189a5f7344e0e62e6f63a657a8eea5396f49b4f6a6336607ce
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Name: InternalStorageSettings
+
+Package: com.nathan.mediacolor
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0_iphoneos-arm64.deb
+Size: 7322
+MD5sum: 6f552d50f9aa4e96eac7ab1e748f30c0
+SHA1: d140dacf7ee6ae0bbf4e8bc39c92088c29d2a3f7
+SHA256: ce58fd1dffe17bf63ad58f64cba1d6c91404915b75724cdccd28b99b0b7fbcdb
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.mediacolor
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0.1_iphoneos-arm64.deb
+Size: 7190
+MD5sum: 0fca537f0e9a11ff8b3a31978bf93402
+SHA1: 5a14391a79d51f8302b308c14a533fa215acff68
+SHA256: fd94fefc94b5471fcebe649d9b7c0429ef836f92d657d01ff326255c2dc60864
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.mediacolor
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0.2_iphoneos-arm64.deb
+Size: 7186
+MD5sum: 23e9925f26ea27f3e799c90308e672bf
+SHA1: 629ef273886ef654776913a045801f41bb8684d4
+SHA256: e77d66ba5fa73464cfda81dd05efe2305c1c8bc21f0ce65ab5f1a76f139c8218
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.mediacolor
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0.3_iphoneos-arm64.deb
+Size: 7170
+MD5sum: 257ab0ab68f86eeefa97287d8c2d1546
+SHA1: ffa8a327709868497a09fc121e1a37a3f05f20dc
+SHA256: 559745dd4800ffd155fdd9c616338d8ff43937db9ac846293de06a42707c1365
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.mediacolor
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0.4_iphoneos-arm64.deb
+Size: 7168
+MD5sum: df3d61d701b319a642fcd808a40bf7a5
+SHA1: 0859357d6d754531a6bf4a670e6948101f024cd9
+SHA256: 9279c7e3f3e6df5326c9b79502d91d68985c4105466200b036d2ab90d5b7ba02
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.mediacolor
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.mediacolor_1.0.5_iphoneos-arm64.deb
+Size: 7236
+MD5sum: 3e20ec16e70a3e67d7efce7dad0793b4
+SHA1: 066a1996aaf374ff2958e29a5cab053f7aaeb051
+SHA256: a7c0cdb52b3601f75d1176e0917caa923d636fb81550079b13a7f91f3ea14e07
+Section: Tweaks
+Description: Tweak that changes the background color of Now Playing widget of the lock screen to match the album art! (iPhone only for now)
+Author: Nathan Senter
+Name: MediaColor
+
+Package: com.nathan.miniisland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.miniisland_1.0_iphoneos-arm64.deb
+Size: 2628
+MD5sum: 3b75c43500ab0bd3c4b1ec919a899418
+SHA1: ebc360757e7ae013635753a438ba42547888bf7d
+SHA256: e0dbdf16297f558dbee3926b6658de03a49be3d2695d28c4f9f7e6412b3b58e2
+Section: Tweaks
+Description: A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Name: MiniIsland
+
+Package: com.nathan.miniisland
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.miniisland_1.0.1_iphoneos-arm64.deb
+Size: 2624
+MD5sum: d30d65be7eacbf63d7fd378b0a4fcca0
+SHA1: 7f8c5f9a04c80df77df1ac3708d036b690e456ae
+SHA256: d6ad91b3e9a43b541787b39d1cb55d1bf3e653d756a37fe88ed6444e5980d540
+Section: Tweaks
+Description: A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Name: MiniIsland
+
+Package: com.nathan.miniisland
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.miniisland_1.0.2_iphoneos-arm64.deb
+Size: 2996
+MD5sum: 4c9a45017e240d2eecc8ced744f9c57f
+SHA1: b7712c33fba0987c36b2ae7e61b8d584b41092dc
+SHA256: cef1d6a29d0c4c0483fff5473504f291cb3ca6121527ce9454aca07b058a84bd
+Section: Tweaks
+Description: A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Name: MiniIsland
+
+Package: com.nathan.miniisland
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.miniisland_1.0.3_iphoneos-arm64.deb
+Size: 4696
+MD5sum: e0690cd08559c6561026ff83b7cc55d2
+SHA1: f4aec90e15a2d6e8e91b397479fbd179b3ce05c7
+SHA256: 0576da6acf2738288c6d7d782c06088c6b8e44c33f7c24f903aa8ef2ba7414de
+Section: Tweaks
+Description: A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Name: MiniIsland
+
+Package: com.nathan.ngrokios
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Depends: firmware (>> 14)
+Filename: ./debs/com.nathan.ngrokios64.deb
+Size: 5256484
+MD5sum: de77d0e5d9ea230b306f0773a6b7af11
+SHA1: 0965cc18d1daec606673e72085c33126ce2a84fb
+SHA256: 1931dfecfa01cd9e83ea8a2e0a361976586fe03a25c8c3cdad4e017b092ef133
+Section: Networking
+Priority: optional
+Description: ngrok for iOS
+Author: Nathan
+Name: ngrok
+
+Package: com.nathan.ngrokios
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 152
+Depends: firmware (>> 14)
+Filename: ./debs/com.nathan.ngrokios.deb
+Size: 6008940
+MD5sum: 8d62f86ba2c098a92d0441b0d22b3090
+SHA1: 22f6cb156cffde0aba4d2fea2a1ce109d2638b88
+SHA256: 925b5dfbfaeff6f085540185547b998be259bb5dccd0548a23213901b6ed55df
+Section: Networking
+Priority: optional
+Description: ngrok for iOS
+Author: Nathan
+Name: ngrok
+
+Package: com.nathan.nosirifeedbacklogs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nosirifeedbacklogs_1.0_iphoneos-arm.deb
+Size: 3044
+MD5sum: 4f36ba6f024e5299fde9c44c0e83559d
+SHA1: 55ce891855807aa9d6e9d5cbec985cc18b7b4ddb
+SHA256: e2afa3d17f6fe7a8f5079a8c516d311b5e3c180f7f5f73b04556f6aac7e312e0
+Section: Tweaks
+Description: Disables the creation of those pesky SiriSearchFeedback logs!
+Author: Nathan Senter
+Name: NoSiriFeedbackLogs
+
+Package: com.nathan.nosirifeedbacklogs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nosirifeedbacklogs_1.0_iphoneos-arm64.deb
+Size: 3136
+MD5sum: 6c6bded1135f376bf997b2539015801f
+SHA1: 944edc0f963657ad94d471c0c26814467c190f8c
+SHA256: 6749fa977af28bfccd434598b6e4d5868a13685320867f5bb01781f7d7f0e7ad
+Section: Tweaks
+Description: Disables the creation of those pesky SiriSearchFeedback logs!
+Author: Nathan Senter
+Name: NoSiriFeedbackLogs
+
+Package: com.nathan.nosirifeedbacklogs
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nosirifeedbacklogs_1.0.1_iphoneos-arm64.deb
+Size: 3120
+MD5sum: 1e8f2eb042ef9f0cbc60e08dedffb540
+SHA1: 2dff31f56b0b754c7e2ae37d2718790325e02c9d
+SHA256: 2e831f6f8139f250eb04783d45f138aad1a186a51158a8176e66f0c743fdf9a4
+Section: Tweaks
+Description: Disables the creation of those pesky SiriSearchFeedback logs!
+Author: Nathan Senter
+Name: NoSiriFeedbackLogs
+
+Package: com.nathan.nosirifeedbacklogs
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nosirifeedbacklogs_1.0.1_iphoneos-arm.deb
+Size: 3034
+MD5sum: d8d260220d68c4c9fb7d1ca746d74a7a
+SHA1: 6fb3d5a2509139a73e74978b1d64c183d8b0b944
+SHA256: 0413a5b23cef5816035f2e0ca07e46e643f5c8e7049cfc66065e2022bac30bd8
+Section: Tweaks
+Description: Disables the creation of those pesky SiriSearchFeedback logs!
+Author: Nathan Senter
+Name: NoSiriFeedbackLogs
+
+Package: com.nathan.nowaveform
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nowaveform_0.0.1_iphoneos-arm64.deb
+Size: 2790
+MD5sum: 2814e68226d6642efe52ec344632626f
+SHA1: 47a15333b1c609cfa096021f7389b1e52f446eb7
+SHA256: f40e854e62c9c425c11dff697080101624523bd7dd73fdc1211dcbb3b596c001
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: NoWaveForm
+
+Package: com.nathan.nowaveform
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nowaveform_1.0_iphoneos-arm64.deb
+Size: 2934
+MD5sum: a73e0785141b6349473fc46ece2a98cb
+SHA1: 8c7dac83081371acd24a360eab4571ced7b82bb6
+SHA256: 163ecdaf44e4482d841ad718924f953f2d8696d969092a9ac3bbd2400742c408
+Section: Tweaks
+Description: Hide the wave form on the dynamic island, and lock screen music player!
+Author: Nathan Senter
+Name: NoWaveForm
+
+Package: com.nathan.nowaveform
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nowaveform_1.0.1_iphoneos-arm64.deb
+Size: 3374
+MD5sum: 034b9ec0e7173611973ca4d60eceac28
+SHA1: bc0190da1c9a01fec5db964823ecff6342391714
+SHA256: c3806f7efabe4ba4813376f3e39b182aa2228d71add0d3021b3361ac0f6e1b39
+Section: Tweaks
+Description: Hide the wave form on the dynamic island, and lock screen music player!
+Author: Nathan Senter
+Name: NoWaveForm
+
+Package: com.nathan.pinghooker
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.pinghooker_1.1_iphoneos-arm64.deb
+Size: 6112
+MD5sum: 6cb6d5243861361dace1872403258221
+SHA1: 1db0ef1e649563fe34347ce92f94b98878bcc2f2
+SHA256: 6e3536987a2c32bba4f5e781899591097d0330f9a6035fc0c400cf1071e09d78
+Section: Tweaks
+Description: Change the sound the phone plays when pinged by watch!
+Author: Nathan Senter
+Name: PingHooker
+
+Package: com.nathan.pinghooker
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.pinghooker_1.1_iphoneos-arm.deb
+Size: 6052
+MD5sum: 3571490d4be093a2fae21d40b08957c4
+SHA1: 24b70b80a74bbeadb6d4dd738ecc7a639f5804e3
+SHA256: e643c81bca78467c5597b3b111becb715db2733c0b3445b2dbf2a35d3ba3204d
+Section: Tweaks
+Description: Change the sound the phone plays when pinged by watch!
+Author: Nathan Senter
+Name: PingHooker
+
+Package: com.nathan.playcli
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.nathan.playcli_1.0.2_iphoneos-arm.deb
+Size: 10122
+MD5sum: 4ec2e8f7d1a188bf969a1587a9094dd2
+SHA1: 034cdf458fc905c68e3615e05de0905a24dd0919
+SHA256: 9f3b0ca5bf6e9bc07902a2cc937710445ad42098a8544898bf27b5c903702127
+Section: Terminal Support
+Description: Command-line tool to play audio files (playback is done by the SpringBoard though).
+Author: Nathan, original is ArtikusHG
+Name: playcli
+
+Package: com.nathan.respringcc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/com.nathan.respringcc_1.0_iphoneos-arm64.deb
+Size: 5852
+MD5sum: 73a183cc9c39bd47ff3c73bad2fd086d
+SHA1: 2ab95e1bc0eca385e5d1906ad1c77da16e05f3d7
+SHA256: bbc12f5088d9f164f8eea0b8ddceea8e32fb2ed71148af3b15c5e4ac1797e1c2
+Section: Tweaks
+Description: CC toggle to respring
+Author: Nathan
+Name: RespringCC
+
+Package: com.nathan.respringcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/com.nathan.respringcc_1.0_iphoneos-arm.deb
+Size: 5808
+MD5sum: 1234297adc402e5d04e12fd52fbe49c8
+SHA1: 84018f6fe91f7fceefd5e7eb8a5f95896bb23d82
+SHA256: bb6a77fe1a91474d99eaa72da2fa808dd15060796ad9916ce1eb446f41b2cdbb
+Section: Tweaks
+Description: CC toggle to respring
+Author: Nathan
+Name: RespringCC
+
+Package: com.nathan.tiktokphotocomments
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.tiktokphotocomments_0.0.1_iphoneos-arm.deb
+Size: 2196
+MD5sum: 99b53e70db878b289a0b89dead573db2
+SHA1: 205147dd5022a6b86046a22a3b35eada244cf943
+SHA256: eceb646c12b44f48e6f92d54f2974ff160b230e1221df1499c33bc04bbf6e098
+Section: Tweaks
+Description: Tweak to enable the Photos in comments function on TikTok if you don't yet have it! (Also enables the stickers in comments but doesn't work if you're not in the region you're supposed to be in to have it)
+Author: Nathan Senter
+Name: TikTokPhotoComments
+
+Package: com.nathan.tiktokphotocomments
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.tiktokphotocomments_0.0.1_iphoneos-arm64.deb
+Size: 2282
+MD5sum: 9adfa2617e9841369d266d323b731b9c
+SHA1: 641774abb11678dd926dea5df50e099a64388824
+SHA256: 98894a989ca7cdc75d6953929fd10f370563f04a37610d96e49fba823a41700c
+Section: Tweaks
+Description: Tweak to enable the Photos in comments function on TikTok if you don't yet have it! (Also enables the stickers in comments but doesn't work if you're not in the region you're supposed to be in to have it)
+Author: Nathan Senter
+Name: TikTokPhotoComments
+
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>> 12), mobilesubstrate
+Filename: ./debs/com.nathan.trolllock_1.0.3_iphoneos-arm.deb
+Size: 166168
+MD5sum: 2f128ce91999cef8aff6eba36d3fb878
+SHA1: 15c52fd3dbc8162846cb9d03f6851c1f3704185a
+SHA256: 49972ea89bc64171a36e00c1393b2de0a5b0d520d0431655e5f532a6422db2f5
+Section: Tweaks
+Priority: optional
+Description: Tweak that turns the faceID glyph into a trollface
+Name: TrollLock
+
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.nathan.trolllock_1.0.3_iphoneos-arm64.deb
+Size: 166122
+MD5sum: a4a5224e1f9f1fffb9054f8bd05560b9
+SHA1: 07dda2d21407103d3cf55860b05d339f30d045b5
+SHA256: 4738e508fcb8ad58f6ff71fb5eefa64fc00e0adc612795700281fe5cb28542d9
+Section: Tweaks
+Priority: optional
+Description: Tweak that turns the faceID glyph into a trollface
+Name: TrollLock
+
+Package: com.nathan.wallpaperchanger
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 144
+Filename: ./debs/com.nathan.wallpaperchanger_1.1_iphoneos-arm.deb
+Size: 4108
+MD5sum: 90841c9629ff43ab9ec6608a097c3d69
+SHA1: 3e0933bdcee59476df48230846127237ea63ca28
+SHA256: 53b18891aae79aada78fd1c6ccb124070e77923ea3819c7458287f7879ea4e55
+Section: Tweaks
+Description: Change wallpaper from command line
+Author: Nathan
+Name: WallpaperChanger
+
+Package: com.nathan.watchdisable
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.watchdisable_1.0_iphoneos-arm64.deb
+Size: 2616
+MD5sum: 246bbb8d6682339e85915bac5bf3711b
+SHA1: ca2664ce5dc68af9e31612531efca6443dfc2698
+SHA256: b62a3378eb7252ae7c44e3fc82eafb2c1be55e30438e4f6e89c65df1dee4ba10
+Section: Tweaks
+Description: A tweak that disables watchdogd, if you want that i guess
+Author: Nathan Senter
+Name: WatchDisable
+
+Package: com.nathan.watchdisable
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.watchdisable_1.0.1_iphoneos-arm64.deb
+Size: 2612
+MD5sum: 02a25c1f671644a43f869865f5f3eb4e
+SHA1: f24a8d83afbf0485a198ac14b7eb9ca1d2895a15
+SHA256: a3ef100c82156a9e30dce85cbebb8ce8381ff5809b1b6f3e61087a0eeb11d71b
+Section: Tweaks
+Description: A tweak that disables watchdogd, if you want that i guess
+Author: Nathan Senter
+Name: WatchDisable
+
+Package: com.pantsthief.flexing
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3188
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.5.0_iphoneos-arm64.deb
+Size: 623834
+MD5sum: cfef04823cb1de0e1ca8da29005010be
+SHA1: f2458185c04407871d0505392cf3274814fe63a4
+SHA256: 600a11c89c5d32651a61c385cd4a9436270ca28c7c1fd5844a3d08012ab6caa1
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.qwertyoruiop.serialsh
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyoruiop
+Filename: ./debs/com.qwertyoruiop.serialsh-iphoneos-0.0.1-1.deb
+Size: 8604
+MD5sum: 645bd4c140fa3f3132d4563a83cd9fe2
+SHA1: 55bc5f0c573ba6523dcf3dc0c1c3252fcc5b1dad
+SHA256: f669310d68faa8cc5301bef28b6312573a6e82641c9cc226342a9779181d0682
+Section: System
+Description: safety net against bootloops
+Tag: role::hacker
+Author: qwertyoruiop
+Name: serialsh
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.2_iphoneos-arm.deb
+Size: 6944
+MD5sum: 91999c578211507eed61c54b60e9c75d
+SHA1: 46a66d327adca7bde7c34b036a6088d86f37839d
+SHA256: 4aa8d6e327230e676bb46057b9dd181fb4d4d56bf5f00691ea96aed2dac52546
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.2_iphoneos-arm64.deb
+Size: 6968
+MD5sum: 67bfa41d97ce14a3d778cf9e1a19c6f6
+SHA1: d7cd4b8b5a0cdcb014c2966d9026c130abecdcbe
+SHA256: 12eae40c0de67b8b6adb76956e3711eab21c03c5bd59cc32c6debe0615b2a3ff
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.3_iphoneos-arm64.deb
+Size: 6958
+MD5sum: 2163b4abde9ca1e16924076f3269babd
+SHA1: 5ffdea83327bfc8fd06821d6f4bfca18eafe1000
+SHA256: b631ff8dbdbbecc6428b1bb744306ae83e46e638992f6fd97905c9769b27ee9b
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.3_iphoneos-arm.deb
+Size: 6924
+MD5sum: bb9a519eeb4bcb99f8816d91b23751fe
+SHA1: ccec5e86e3f1f8e7d86f20d051031a8fd83702b6
+SHA256: 7fbb2c20822270014efc6bb42902d027c8ea73969d35478371082eeed7ae4aea
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.4_iphoneos-arm64.deb
+Size: 6968
+MD5sum: 4ca78380238dbae1f84da8992e4ffb71
+SHA1: 55f85db9578a2dde73ea1e08f686feeb69f259b3
+SHA256: 76576177dff40b68a4e29856880b00c67191b2447a209a01ab79be5c2f1dbd12
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.4_iphoneos-arm.deb
+Size: 6874
+MD5sum: 3bb80e2a1ef372467637a878e355b067
+SHA1: 32667a4708eb171c590fe3881035e086639ef2b3
+SHA256: 859616e4c7120b7e7643fdf46fe2913cd9d52a9b2957ab5756567f09df6dfd3b
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.5_iphoneos-arm.deb
+Size: 6908
+MD5sum: 2bf085937f39bb9d453bda9b5a76f2f5
+SHA1: ce4b8aead369d1c052cb301333709032940bde12
+SHA256: 4b41f19fe618849820068fa0da39553d4f0f78595e96152c1f9f1439569ff3bc
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64.deb
+Size: 7012
+MD5sum: 606d17224950bd957f4f0f691294ff47
+SHA1: 3e86638bfcf0958b76ee0c29400c8233ceea344a
+SHA256: 1633b19d7737f4feae60e6398d0d0513dee7d6daf66decccea01bb35ee5e7673
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.6_iphoneos-arm.deb
+Size: 14758
+MD5sum: 68d2f1a9d86fa858fe86d79e47204b87
+SHA1: d9fe4556ad00dfb5717957d6506e1f526e2a2268
+SHA256: 62820acf68ea23769f5eb63bcedfd1b09e7f55c2d6fff9ec61005fe192411fd8
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.6_iphoneos-arm64.deb
+Size: 14618
+MD5sum: 4a17a4d47b89a0547ab87524abe68da4
+SHA1: 159c53cbe4e2549a44e64cfce78bf98a6b7809c6
+SHA256: 5843676dc56be9d8145b4a088160551a652eb76b5319635d6e5887623daf45dd
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.7_iphoneos-arm64.deb
+Size: 15548
+MD5sum: 5ae97ee5355d855da8269cc369e64ab2
+SHA1: fd82a7bc9ed9e5a2746b1418585c4228ec5d990a
+SHA256: 20d3f1732f82addf87ed401d36256de612275ea65e39f770f7e249dd9ba81d4d
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.7_iphoneos-arm.deb
+Size: 15712
+MD5sum: 7a6d2b13a9cd97db6496bc8afd3fa4ff
+SHA1: f2a0085a2b470732481c7a3511ddbca223aee156
+SHA256: 9acbb9dce45dd9a8e51da740424e0c139b8d9ff4e3737200125ce4ab019087a4
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.8
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64.deb
+Size: 15592
+MD5sum: e800533cd34742296b5cd6ba37b523b0
+SHA1: c8110ed96366abd7626e30c8d9bd8c933c0a9b57
+SHA256: e967f4cdbf866c1d56727badea2c779838dabec7a5e2717575a819dc70f683ad
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.8_iphoneos-arm.deb
+Size: 15724
+MD5sum: 062635d5d479d1762ef67b9fb6da65a6
+SHA1: ae8bd4433240c37eb13a09f71c36170b759702d4
+SHA256: 1c3ca08ffc6bebea87e84edba2c8da2b8a870bdeb9ba7e6d444cdf14aa9885e9
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64.deb
+Size: 15606
+MD5sum: a7c7003f9ba405d98282f7d15f01af2e
+SHA1: d20e3417c216fa5a365e554a2422701fd5bae024
+SHA256: bfdebf9c83adffb6bd3c5352d49450e869b99ba3e8b333dbfa6bd2171a9e6a1e
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.9_iphoneos-arm.deb
+Size: 15754
+MD5sum: 8ba7f4fd12ce82d27f12c39713bf612f
+SHA1: ee6b7714b75b6ce638b93924cdefb59c90e4ab00
+SHA256: 4f0d24cae0f44d61a73cc0d9db051fa3ffcce3eb0707be585a38c4b45c4254f0
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1_iphoneos-arm.deb
+Size: 16242
+MD5sum: 063995724650cee8e8cf3efb463ebb4a
+SHA1: 0739aab9821cb16e4f3ad7b620db8ba84077c624
+SHA256: a9fd512956116f0a2084a24b60affc90b7fcba883f08002f43e093db92d63ef6
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1_iphoneos-arm64.deb
+Size: 16066
+MD5sum: 85f3a5321902ddac83a41474f5041a06
+SHA1: 075490376ca594c79ad216917b98d2c3482173ae
+SHA256: 05630849a432e5625b2b71ea8d7d2f82a641942acf616db9d251d02a5dfb70f8
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.1_iphoneos-arm64.deb
+Size: 16958
+MD5sum: d6ae49b8bbe96785cc1059d53588f819
+SHA1: b53008a07d13f00561fb4a63a786624131221b1f
+SHA256: c76025bb90c2b643a71add13538981c61c58391575f47fd31441c641a1d90788
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.1_iphoneos-arm.deb
+Size: 17076
+MD5sum: 46c9a0267addc254338fecd2b6b04071
+SHA1: f105cf97150ac0e5c5c51fe0519f3551c003d971
+SHA256: 44819fcd4094e55b83d2a2393cbd19b1e8ce123606f2de46793e4649bfc6eb11
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.traurige.eneko
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm.deb
+Size: 28372
+MD5sum: 677e11617b27019ea46df6777b88027e
+SHA1: 5c408b12dd665540b20ba1e49245e9d7ad2f68fb
+SHA256: c5c5af4766ab3f98b8e59d555ded299683a441110be4a8691374603ca9907f68
+Section: Tweaks
+Description: Live wallpapers for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Eneko
+
+Package: dev.traurige.eneko
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debs/dev.traurige.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28456
+MD5sum: e25d1c124704d4a4080a21f04a95a93a
+SHA1: ecd7ae867017395255234be0753e86007a243547
+SHA256: ac5c8b5ce148a7312913116c78f675149aa27909dc4cee4cd9dfe637563cceff
+Section: Tweaks
+Description: Live wallpapers for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Eneko
+
