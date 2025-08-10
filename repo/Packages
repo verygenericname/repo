@@ -128,6 +128,21 @@ Name: 360Spammer
 
 Package: com.nathan.batterycli
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Filename: ./debs/com.nathan.batterycli_1.0_iphoneos-arm64.deb
+Size: 4952
+MD5sum: e66d00d243ec4775a2cc7b6def523648
+SHA1: 38dd432e634e9b3a990fac1bf16a12b95ac34a62
+SHA256: 0260e1d6a207b291e1d5487690192a3d1edfd76b2ddfc2af5c62d2c4eeb44b65
+Section: System
+Description: Simple cli tool that reads battery percent and prints it out
+Tag: role::hacker
+Author: Nathan
+Name: BatteryCLI
+
+Package: com.nathan.batterycli
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Nathan
 Installed-Size: 212
@@ -138,21 +153,6 @@ SHA1: b459126fe6ba2188834c0aac8f1d090246cb2c92
 SHA256: 72f0a66f2148043715f40fefc712a8e497960e2bb1e329c7c901a73078dcf0f3
 Section: System
 Description: Simple cli tweak that reads battery percent and prints it out
-Tag: role::hacker
-Author: Nathan
-Name: BatteryCLI
-
-Package: com.nathan.batterycli
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan
-Filename: ./debs/com.nathan.batterycli_1.0_iphoneos-arm64.deb
-Size: 4952
-MD5sum: e66d00d243ec4775a2cc7b6def523648
-SHA1: 38dd432e634e9b3a990fac1bf16a12b95ac34a62
-SHA256: 0260e1d6a207b291e1d5487690192a3d1edfd76b2ddfc2af5c62d2c4eeb44b65
-Section: System
-Description: Simple cli tool that reads battery percent and prints it out
 Tag: role::hacker
 Author: Nathan
 Name: BatteryCLI
@@ -609,22 +609,6 @@ Name: fr
 
 Package: com.nathan.gdsound
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Nathan Senter
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nathan.gdsound_1.0_iphoneos-arm.deb
-Size: 3178
-MD5sum: 7e16f7e0d9a3c4ef102c00b2a7d22d78
-SHA1: 9d52fc0cb4e1b8d765f5797a0e170950bc44b9a1
-SHA256: 3af8b686d19719f3490eb160ff8360e1f611e945fd543181321eaa11a4618399
-Section: Tweaks
-Description: Tweak to allow sound in mute on all of the geometry dash games!
-Author: Nathan Senter
-Name: GDSound
-
-Package: com.nathan.gdsound
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 168
@@ -634,6 +618,22 @@ Size: 3262
 MD5sum: a614db245c8aa8b7bbdc4d135775c86f
 SHA1: 3eb1e1e164f4a636fa5f8d3410b73f550bba5ffb
 SHA256: e7b80a9f9d5c126df8162501e8ececd5c3ccdcf0fd9eb8b58318e61effff5bed
+Section: Tweaks
+Description: Tweak to allow sound in mute on all of the geometry dash games!
+Author: Nathan Senter
+Name: GDSound
+
+Package: com.nathan.gdsound
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gdsound_1.0_iphoneos-arm.deb
+Size: 3178
+MD5sum: 7e16f7e0d9a3c4ef102c00b2a7d22d78
+SHA1: 9d52fc0cb4e1b8d765f5797a0e170950bc44b9a1
+SHA256: 3af8b686d19719f3490eb160ff8360e1f611e945fd543181321eaa11a4618399
 Section: Tweaks
 Description: Tweak to allow sound in mute on all of the geometry dash games!
 Author: Nathan Senter
@@ -673,22 +673,6 @@ Name: gridswitcher
 
 Package: com.nathan.gridswitcher
 Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nathan.gridswitcher_1.0.3_iphoneos-arm64.deb
-Size: 2974
-MD5sum: 264403dd645aab84409cbba244081246
-SHA1: 4cacb152580193c990785b86bd08b16386e09489
-SHA256: 5a31b6107fb7895a621e3743e2c1c612ac95b5d31d76a99edd983bdf7c0e96bd
-Section: Tweaks
-Description: Enables the iPad Switcher on iPhone!
-Author: Nathan Senter
-Name: gridswitcher
-
-Package: com.nathan.gridswitcher
-Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Nathan Senter
 Installed-Size: 168
@@ -698,6 +682,22 @@ Size: 2880
 MD5sum: b7da26dcbf148e73c0202ef28f3efaef
 SHA1: 0232a6c083c10dc556bf6cac7fb56eab62fc2387
 SHA256: 3f3d956cb43c06eac2d69a8bdbf9de07b640aa2a2184f3d097adc8b5e20e918f
+Section: Tweaks
+Description: Enables the iPad Switcher on iPhone!
+Author: Nathan Senter
+Name: gridswitcher
+
+Package: com.nathan.gridswitcher
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.gridswitcher_1.0.3_iphoneos-arm64.deb
+Size: 2974
+MD5sum: 264403dd645aab84409cbba244081246
+SHA1: 4cacb152580193c990785b86bd08b16386e09489
+SHA256: 5a31b6107fb7895a621e3743e2c1c612ac95b5d31d76a99edd983bdf7c0e96bd
 Section: Tweaks
 Description: Enables the iPad Switcher on iPhone!
 Author: Nathan Senter
@@ -721,22 +721,6 @@ Name: HidePass
 
 Package: com.nathan.homehider
 Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Nathan Senter
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nathan.homehider_1.1_iphoneos-arm.deb
-Size: 2488
-MD5sum: 94a6c36646b40d9998a75c759c6040f2
-SHA1: b3124eac62669e46b4d144a77d7d5408499ef9fa
-SHA256: 6385a51cc835e0d758f8e675895afde06014a4536f84e135bf7b10593fcf24ca
-Section: Tweaks
-Description: Tweak to hide your homebar!
-Author: Nathan Senter
-Name: HomeHider
-
-Package: com.nathan.homehider
-Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 168
@@ -746,6 +730,22 @@ Size: 2560
 MD5sum: c8119eb54990e72b51eee04820853b8f
 SHA1: 33a3775b1cd3db4b4b8086a29984928e735158c9
 SHA256: c51d0ebff45b851399aaeeeb3efc545191d5693b1f1ef63b12a6bad506ca3fdf
+Section: Tweaks
+Description: Tweak to hide your homebar!
+Author: Nathan Senter
+Name: HomeHider
+
+Package: com.nathan.homehider
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.homehider_1.1_iphoneos-arm.deb
+Size: 2488
+MD5sum: 94a6c36646b40d9998a75c759c6040f2
+SHA1: b3124eac62669e46b4d144a77d7d5408499ef9fa
+SHA256: 6385a51cc835e0d758f8e675895afde06014a4536f84e135bf7b10593fcf24ca
 Section: Tweaks
 Description: Tweak to hide your homebar!
 Author: Nathan Senter
@@ -943,22 +943,6 @@ Name: MiniIsland
 
 Package: com.nathan.ngrokios
 Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan
-Depends: firmware (>> 14)
-Filename: ./debs/com.nathan.ngrokios64.deb
-Size: 5256484
-MD5sum: de77d0e5d9ea230b306f0773a6b7af11
-SHA1: 0965cc18d1daec606673e72085c33126ce2a84fb
-SHA256: 1931dfecfa01cd9e83ea8a2e0a361976586fe03a25c8c3cdad4e017b092ef133
-Section: Networking
-Priority: optional
-Description: ngrok for iOS
-Author: Nathan
-Name: ngrok
-
-Package: com.nathan.ngrokios
-Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Nathan
 Installed-Size: 152
@@ -968,6 +952,22 @@ Size: 6008940
 MD5sum: 8d62f86ba2c098a92d0441b0d22b3090
 SHA1: 22f6cb156cffde0aba4d2fea2a1ce109d2638b88
 SHA256: 925b5dfbfaeff6f085540185547b998be259bb5dccd0548a23213901b6ed55df
+Section: Networking
+Priority: optional
+Description: ngrok for iOS
+Author: Nathan
+Name: ngrok
+
+Package: com.nathan.ngrokios
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Depends: firmware (>> 14)
+Filename: ./debs/com.nathan.ngrokios64.deb
+Size: 5256484
+MD5sum: de77d0e5d9ea230b306f0773a6b7af11
+SHA1: 0965cc18d1daec606673e72085c33126ce2a84fb
+SHA256: 1931dfecfa01cd9e83ea8a2e0a361976586fe03a25c8c3cdad4e017b092ef133
 Section: Networking
 Priority: optional
 Description: ngrok for iOS
@@ -1088,22 +1088,6 @@ Name: NoWaveForm
 
 Package: com.nathan.pinghooker
 Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 344
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nathan.pinghooker_1.1_iphoneos-arm64.deb
-Size: 6112
-MD5sum: 6cb6d5243861361dace1872403258221
-SHA1: 1db0ef1e649563fe34347ce92f94b98878bcc2f2
-SHA256: 6e3536987a2c32bba4f5e781899591097d0330f9a6035fc0c400cf1071e09d78
-Section: Tweaks
-Description: Change the sound the phone plays when pinged by watch!
-Author: Nathan Senter
-Name: PingHooker
-
-Package: com.nathan.pinghooker
-Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Nathan Senter
 Installed-Size: 344
@@ -1113,6 +1097,22 @@ Size: 6052
 MD5sum: 3571490d4be093a2fae21d40b08957c4
 SHA1: 24b70b80a74bbeadb6d4dd738ecc7a639f5804e3
 SHA256: e643c81bca78467c5597b3b111becb715db2733c0b3445b2dbf2a35d3ba3204d
+Section: Tweaks
+Description: Change the sound the phone plays when pinged by watch!
+Author: Nathan Senter
+Name: PingHooker
+
+Package: com.nathan.pinghooker
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.pinghooker_1.1_iphoneos-arm64.deb
+Size: 6112
+MD5sum: 6cb6d5243861361dace1872403258221
+SHA1: 1db0ef1e649563fe34347ce92f94b98878bcc2f2
+SHA256: 6e3536987a2c32bba4f5e781899591097d0330f9a6035fc0c400cf1071e09d78
 Section: Tweaks
 Description: Change the sound the phone plays when pinged by watch!
 Author: Nathan Senter
@@ -1136,22 +1136,6 @@ Name: playcli
 
 Package: com.nathan.respringcc
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Nathan
-Installed-Size: 176
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-Filename: ./debs/com.nathan.respringcc_1.0_iphoneos-arm.deb
-Size: 5808
-MD5sum: 1234297adc402e5d04e12fd52fbe49c8
-SHA1: 84018f6fe91f7fceefd5e7eb8a5f95896bb23d82
-SHA256: bb6a77fe1a91474d99eaa72da2fa808dd15060796ad9916ce1eb446f41b2cdbb
-Section: Tweaks
-Description: CC toggle to respring
-Author: Nathan
-Name: RespringCC
-
-Package: com.nathan.respringcc
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Nathan
 Installed-Size: 176
@@ -1166,21 +1150,21 @@ Description: CC toggle to respring
 Author: Nathan
 Name: RespringCC
 
-Package: com.nathan.tiktokphotocomments
-Version: 0.0.1
+Package: com.nathan.respringcc
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Nathan Senter
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.nathan.tiktokphotocomments_0.0.1_iphoneos-arm.deb
-Size: 2196
-MD5sum: 99b53e70db878b289a0b89dead573db2
-SHA1: 205147dd5022a6b86046a22a3b35eada244cf943
-SHA256: eceb646c12b44f48e6f92d54f2974ff160b230e1221df1499c33bc04bbf6e098
+Maintainer: Nathan
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: ./debs/com.nathan.respringcc_1.0_iphoneos-arm.deb
+Size: 5808
+MD5sum: 1234297adc402e5d04e12fd52fbe49c8
+SHA1: 84018f6fe91f7fceefd5e7eb8a5f95896bb23d82
+SHA256: bb6a77fe1a91474d99eaa72da2fa808dd15060796ad9916ce1eb446f41b2cdbb
 Section: Tweaks
-Description: Tweak to enable the Photos in comments function on TikTok if you don't yet have it! (Also enables the stickers in comments but doesn't work if you're not in the region you're supposed to be in to have it)
-Author: Nathan Senter
-Name: TikTokPhotoComments
+Description: CC toggle to respring
+Author: Nathan
+Name: RespringCC
 
 Package: com.nathan.tiktokphotocomments
 Version: 0.0.1
@@ -1198,21 +1182,21 @@ Description: Tweak to enable the Photos in comments function on TikTok if you do
 Author: Nathan Senter
 Name: TikTokPhotoComments
 
-Package: com.nathan.trolllock
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Nathan
-Installed-Size: 428
-Depends: firmware (>=12.0), mobilesubstrate
-Filename: ./debs/com.nathan.trolllock_1.0.3_iphoneos-arm64.deb
-Size: 166122
-MD5sum: a4a5224e1f9f1fffb9054f8bd05560b9
-SHA1: 07dda2d21407103d3cf55860b05d339f30d045b5
-SHA256: 4738e508fcb8ad58f6ff71fb5eefa64fc00e0adc612795700281fe5cb28542d9
+Package: com.nathan.tiktokphotocomments
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.tiktokphotocomments_0.0.1_iphoneos-arm.deb
+Size: 2196
+MD5sum: 99b53e70db878b289a0b89dead573db2
+SHA1: 205147dd5022a6b86046a22a3b35eada244cf943
+SHA256: eceb646c12b44f48e6f92d54f2974ff160b230e1221df1499c33bc04bbf6e098
 Section: Tweaks
-Priority: optional
-Description: Tweak that turns the faceID glyph into a trollface
-Name: TrollLock
+Description: Tweak to enable the Photos in comments function on TikTok if you don't yet have it! (Also enables the stickers in comments but doesn't work if you're not in the region you're supposed to be in to have it)
+Author: Nathan Senter
+Name: TikTokPhotoComments
 
 Package: com.nathan.trolllock
 Version: 1.0.3
@@ -1225,6 +1209,22 @@ Size: 166168
 MD5sum: 2f128ce91999cef8aff6eba36d3fb878
 SHA1: 15c52fd3dbc8162846cb9d03f6851c1f3704185a
 SHA256: 49972ea89bc64171a36e00c1393b2de0a5b0d520d0431655e5f532a6422db2f5
+Section: Tweaks
+Priority: optional
+Description: Tweak that turns the faceID glyph into a trollface
+Name: TrollLock
+
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 428
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./debs/com.nathan.trolllock_1.0.3_iphoneos-arm64.deb
+Size: 166122
+MD5sum: a4a5224e1f9f1fffb9054f8bd05560b9
+SHA1: 07dda2d21407103d3cf55860b05d339f30d045b5
+SHA256: 4738e508fcb8ad58f6ff71fb5eefa64fc00e0adc612795700281fe5cb28542d9
 Section: Tweaks
 Priority: optional
 Description: Tweak that turns the faceID glyph into a trollface
@@ -1345,22 +1345,6 @@ Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 344
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.0.3_iphoneos-arm64.deb
-Size: 6958
-MD5sum: 2163b4abde9ca1e16924076f3269babd
-SHA1: 5ffdea83327bfc8fd06821d6f4bfca18eafe1000
-SHA256: b631ff8dbdbbecc6428b1bb744306ae83e46e638992f6fd97905c9769b27ee9b
-Section: Tweaks
-Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Name: appstoretroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Mineek
 Installed-Size: 344
@@ -1370,6 +1354,22 @@ Size: 6924
 MD5sum: bb9a519eeb4bcb99f8816d91b23751fe
 SHA1: ccec5e86e3f1f8e7d86f20d051031a8fd83702b6
 SHA256: 7fbb2c20822270014efc6bb42902d027c8ea73969d35478371082eeed7ae4aea
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.3_iphoneos-arm64.deb
+Size: 6958
+MD5sum: 2163b4abde9ca1e16924076f3269babd
+SHA1: 5ffdea83327bfc8fd06821d6f4bfca18eafe1000
+SHA256: b631ff8dbdbbecc6428b1bb744306ae83e46e638992f6fd97905c9769b27ee9b
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
@@ -1409,22 +1409,6 @@ Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 344
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64.deb
-Size: 7012
-MD5sum: 606d17224950bd957f4f0f691294ff47
-SHA1: 3e86638bfcf0958b76ee0c29400c8233ceea344a
-SHA256: 1633b19d7737f4feae60e6398d0d0513dee7d6daf66decccea01bb35ee5e7673
-Section: Tweaks
-Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Name: appstoretroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Mineek
 Installed-Size: 344
@@ -1434,6 +1418,22 @@ Size: 6908
 MD5sum: 2bf085937f39bb9d453bda9b5a76f2f5
 SHA1: ce4b8aead369d1c052cb301333709032940bde12
 SHA256: 4b41f19fe618849820068fa0da39553d4f0f78595e96152c1f9f1439569ff3bc
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64.deb
+Size: 7012
+MD5sum: 606d17224950bd957f4f0f691294ff47
+SHA1: 3e86638bfcf0958b76ee0c29400c8233ceea344a
+SHA256: 1633b19d7737f4feae60e6398d0d0513dee7d6daf66decccea01bb35ee5e7673
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
@@ -1505,22 +1505,6 @@ Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.8
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 512
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64.deb
-Size: 15592
-MD5sum: e800533cd34742296b5cd6ba37b523b0
-SHA1: c8110ed96366abd7626e30c8d9bd8c933c0a9b57
-SHA256: e967f4cdbf866c1d56727badea2c779838dabec7a5e2717575a819dc70f683ad
-Section: Tweaks
-Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Name: appstoretroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: Mineek
 Installed-Size: 512
@@ -1536,16 +1520,16 @@ Author: Mineek
 Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
-Version: 0.0.9
-Architecture: iphoneos-arm
+Version: 0.0.8
+Architecture: iphoneos-arm64
 Maintainer: Mineek
 Installed-Size: 512
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.0.9_iphoneos-arm.deb
-Size: 15754
-MD5sum: 8ba7f4fd12ce82d27f12c39713bf612f
-SHA1: ee6b7714b75b6ce638b93924cdefb59c90e4ab00
-SHA256: 4f0d24cae0f44d61a73cc0d9db051fa3ffcce3eb0707be585a38c4b45c4254f0
+Filename: ./debs/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64.deb
+Size: 15592
+MD5sum: e800533cd34742296b5cd6ba37b523b0
+SHA1: c8110ed96366abd7626e30c8d9bd8c933c0a9b57
+SHA256: e967f4cdbf866c1d56727badea2c779838dabec7a5e2717575a819dc70f683ad
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
@@ -1568,16 +1552,16 @@ Author: Mineek
 Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
-Version: 0.1
+Version: 0.0.9
 Architecture: iphoneos-arm
 Maintainer: Mineek
 Installed-Size: 512
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.1_iphoneos-arm.deb
-Size: 16242
-MD5sum: 063995724650cee8e8cf3efb463ebb4a
-SHA1: 0739aab9821cb16e4f3ad7b620db8ba84077c624
-SHA256: a9fd512956116f0a2084a24b60affc90b7fcba883f08002f43e093db92d63ef6
+Filename: ./debs/dev.mineek.appstoretroller_0.0.9_iphoneos-arm.deb
+Size: 15754
+MD5sum: 8ba7f4fd12ce82d27f12c39713bf612f
+SHA1: ee6b7714b75b6ce638b93924cdefb59c90e4ab00
+SHA256: 4f0d24cae0f44d61a73cc0d9db051fa3ffcce3eb0707be585a38c4b45c4254f0
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
@@ -1600,16 +1584,16 @@ Author: Mineek
 Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
-Version: 0.1.1
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Mineek
 Installed-Size: 512
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dev.mineek.appstoretroller_0.1.1_iphoneos-arm.deb
-Size: 17076
-MD5sum: 46c9a0267addc254338fecd2b6b04071
-SHA1: f105cf97150ac0e5c5c51fe0519f3551c003d971
-SHA256: 44819fcd4094e55b83d2a2393cbd19b1e8ce123606f2de46793e4649bfc6eb11
+Filename: ./debs/dev.mineek.appstoretroller_0.1_iphoneos-arm.deb
+Size: 16242
+MD5sum: 063995724650cee8e8cf3efb463ebb4a
+SHA1: 0739aab9821cb16e4f3ad7b620db8ba84077c624
+SHA256: a9fd512956116f0a2084a24b60affc90b7fcba883f08002f43e093db92d63ef6
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
@@ -1626,6 +1610,54 @@ Size: 16958
 MD5sum: d6ae49b8bbe96785cc1059d53588f819
 SHA1: b53008a07d13f00561fb4a63a786624131221b1f
 SHA256: c76025bb90c2b643a71add13538981c61c58391575f47fd31441c641a1d90788
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.1_iphoneos-arm.deb
+Size: 17076
+MD5sum: 46c9a0267addc254338fecd2b6b04071
+SHA1: f105cf97150ac0e5c5c51fe0519f3551c003d971
+SHA256: 44819fcd4094e55b83d2a2393cbd19b1e8ce123606f2de46793e4649bfc6eb11
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64.deb
+Size: 16996
+MD5sum: eef9f7cbf91f0e1f8cdbc88022009448
+SHA1: 6ea80f586aa3fd9d0d5114fa63f05ba00e387d59
+SHA256: e15d6c875c463c55b741efcfde3747fcb3cfb91c53a00050ebda4c042240fdeb
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dev.mineek.appstoretroller_0.1.2_iphoneos-arm.deb
+Size: 17076
+MD5sum: 50c1aa9b33015230ee1d1783949e39a0
+SHA1: b2862f8454bffa457ad110f4cb77c941daa23801
+SHA256: 979e1115673113affb4a3c6434c181a61537eb8f6dcf558f496209100c65fff8
 Section: Tweaks
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
