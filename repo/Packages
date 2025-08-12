@@ -1118,6 +1118,38 @@ Description: Change the sound the phone plays when pinged by watch!
 Author: Nathan Senter
 Name: PingHooker
 
+Package: com.nathan.pinghooker
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.pinghooker_1.2_iphoneos-arm64.deb
+Size: 6252
+MD5sum: 843d1c33d6447ab1c032c285e9e26c58
+SHA1: 3d2cb6a41773a0dc7665dff03dccf2c0fff2a1f1
+SHA256: 3126db5ad2220f55cb0145fa724a39f95252919e397814f423ea5c4bb1fa5b7a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: PingHooker
+
+Package: com.nathan.pinghooker
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.pinghooker_1.2_iphoneos-arm.deb
+Size: 6158
+MD5sum: d8241c6aa68b726a02d066c7076ab826
+SHA1: 38bb47f2e249d8be868485389772b84e7189ede1
+SHA256: a387a532301339e7f0365caf1132540495dd715c6b09cb2e405ae8fe7ca5f832
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nathan Senter
+Name: PingHooker
+
 Package: com.nathan.playcli
 Version: 1.0.2
 Architecture: iphoneos-arm
