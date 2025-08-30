@@ -1,3 +1,19 @@
+Package: bindfs-tools
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 104
+Depends: dopamine-basebin-link
+Filename: ./debs/bindfs-tools_1.0_iphoneos-arm64.deb
+Size: 3612
+MD5sum: a5eca13a4eafb89428cb8f563b244437
+SHA1: 014bfe43c962506144f24bf67607055aae12986b
+SHA256: 4317fbde5ad2e0ac0bc81a818aee318f9c443d3750d005b7a63a011fa10d0767
+Section: System
+Description: mount and umount bindfs for Dopamine
+Tag: role::hacker
+Author: Duy Tran
+Name: bindfs-tools
+
 Package: com.lns.pogr
 Version: 0.3.1
 Architecture: iphoneos-arm64
