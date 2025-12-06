@@ -1022,6 +1022,22 @@ Description: Hide the wave form on the dynamic island, and lock screen music pla
 Author: Nathan Senter
 Name: NoWaveForm
 
+Package: com.nathan.oldmessagesui
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.oldmessagesui_1.0_iphoneos-arm64.deb
+Size: 2922
+MD5sum: 0bf1ed37ca8317e7996a1b25fd3f9a1f
+SHA1: 9de2e6e9edee90cfcccbc1b47f41d8fba4d6d7eb
+SHA256: 9ae1c319b079894a601c4b13c3a2c368b00305162a60efd23324d8580964b355
+Section: Tweaks
+Description: Tweak that brings the old App selector back in iOS 17.0!
+Author: Nathan Senter
+Name: OldMessagesUI
+
 Package: com.nathan.pinghooker
 Version: 1.1
 Architecture: iphoneos-arm
