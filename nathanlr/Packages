@@ -1,13 +1,13 @@
 Package: com.nathan.systemfiles
-Version: 2.0.9
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: Nathan
 Conflicts: com.nathan.systemfiles164, com.nathan.systemfiles165, com.nathan.launchd
 Filename: ./debs/sysfiles.deb
-Size: 4011980
-MD5sum: 2699a0de04cb34467cbb7e64776de56d
-SHA1: a6b5b01e2532e9ae3d36edaf12503503bac52d53
-SHA256: ad169b76a8e98711d1aa5c588f855bd3c8646294c9bfccb5d4ae1470302234e8
+Size: 4013036
+MD5sum: 38138c08080a27fede15f789746203d8
+SHA1: 0e9325112b20ba144dfc2e130086f36cbcac41c8
+SHA256: 94ee02e3ee33f71c354d6d1929301fbe04fca0f40e0172d89dfc9b5b18b117e6
 Section: System
 Description: Files for my semi-jailbreak
 Author: Nathan
