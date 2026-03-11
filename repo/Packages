@@ -990,6 +990,22 @@ Description: Disables the creation of those pesky SiriSearchFeedback logs!
 Author: Nathan Senter
 Name: NoSiriFeedbackLogs
 
+Package: com.nathan.notetheringdetection
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.notetheringdetection_1.0_iphoneos-arm64.deb
+Size: 3110
+MD5sum: bcb8631e6280ea2dae96434601c4323e
+SHA1: cb2dcbcb6222bc5bee776a0ea08455c96e28c24c
+SHA256: 78cbf91d8252be0d8dd77b0c9c64700964d44d6b779360ab3541a1823aeb9a2c
+Section: Tweaks
+Description: A Tweak that bypasses your carriers Tethering detection!
+Author: Nathan Senter
+Name: NoTetheringDetection
+
 Package: com.nathan.nowaveform
 Version: 0.0.1
 Architecture: iphoneos-arm64
