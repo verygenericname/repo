@@ -1054,6 +1054,22 @@ Description: Hide the wave form on the dynamic island, and lock screen music pla
 Author: Nathan Senter
 Name: NoWaveForm
 
+Package: com.nathan.nowaveform
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.nowaveform_1.0.2_iphoneos-arm64.deb
+Size: 3384
+MD5sum: dd4ebaa8398831ffd28bd7f65a0ae1bf
+SHA1: d8076b62cfb1cdcbf435811dbf92c40e43d1d360
+SHA256: 157e9abaeb4c645b2c6b13715a86d3f153750e0481049338e62d227bec212079
+Section: Tweaks
+Description: Hide the wave form on the dynamic island, and lock screen music player!
+Author: Nathan Senter
+Name: NoWaveForm
+
 Package: com.nathan.oldmessagesui
 Version: 1.0
 Architecture: iphoneos-arm64
