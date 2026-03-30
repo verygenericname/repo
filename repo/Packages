@@ -717,6 +717,36 @@ Description: Tweak to enable the hidden storage settings
 Author: Nathan Senter
 Name: InternalStorageSettings
 
+Package: com.nathan.internalstoragesettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm.deb
+Size: 2318
+MD5sum: 552fb81437fd8ddf539447bd683d19f9
+SHA1: 2476a1b1264e67849d5c204fbd68b81de8a45759
+SHA256: 3e8bdac1338210554a6eacc44175088c6c6f3572a2f078d1f913c9c7e64e4143
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Name: InternalStorageSettings
+
+Package: com.nathan.internalstoragesettings
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm64.deb
+Size: 2400
+MD5sum: 923ac9ffd7a582476be85a95fd85a2b1
+SHA1: ef529a805315edbd2029ceed08f4eb8c587a612f
+SHA256: 0f2658be2188d0ffae93a637291a78e97d5521bdd94268c29c46b8a40fbdbe80
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Name: InternalStorageSettings
+
 Package: com.nathan.mediacolor
 Version: 1.0
 Architecture: iphoneos-arm64
