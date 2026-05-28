@@ -125,6 +125,38 @@ Description: Tweak that prevents apps being notified when you take a screenshot!
 Author: Nathan
 Name: BlockScreenshotNotification
 
+Package: com.nathan.blockscreenshotnotification
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.blockscreenshotnotification_1.0.2_iphoneos-arm64.deb
+Size: 3194
+MD5sum: 6ea34b3c09c8f5e097f64f2af008d85b
+SHA1: 0435e8f38bb987133c5478919110ffead6e6b9a0
+SHA256: 3943b29ef694baf85653792fa358826b8f72ae2d58d62230002018ecd41a7e64
+Section: Tweaks
+Description: Tweak that prevents apps being notified when you take a screenshot!
+Author: Nathan
+Name: BlockScreenshotNotification
+
+Package: com.nathan.blockscreenshotnotification
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.blockscreenshotnotification_1.0.2_iphoneos-arm.deb
+Size: 3106
+MD5sum: 174783ff2455703996e61b2af7ad5b98
+SHA1: 5c208fc3ba9b76574c3f693b9a726d8a63dc9ea6
+SHA256: 7f81337234ff028cbbfd0f89fee67228d78184aeee98b8a03ff53e82f318c4fd
+Section: Tweaks
+Description: Tweak that prevents apps being notified when you take a screenshot!
+Author: Nathan
+Name: BlockScreenshotNotification
+
 Package: com.nathan.bubblecolor
 Version: 1.0.0
 Architecture: iphoneos-arm
