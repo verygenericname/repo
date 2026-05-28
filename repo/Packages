@@ -93,6 +93,38 @@ Tag: role::hacker
 Author: Nathan
 Name: BatteryCLI
 
+Package: com.nathan.blockscreenshotnotification
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.blockscreenshotnotification_1.0.1_iphoneos-arm64.deb
+Size: 3598
+MD5sum: 7ba3c9f0d4040f40be025b67bbfcadea
+SHA1: 9b8e5c26159b7a9340e2ff0e2c4598be1087480e
+SHA256: bac39804556a82aa801ef989567953ee8a7907378dc1ead30b0eef7dc5eae331
+Section: Tweaks
+Description: Tweak that prevents apps being notified when you take a screenshot!
+Author: Nathan
+Name: BlockScreenshotNotification
+
+Package: com.nathan.blockscreenshotnotification
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.blockscreenshotnotification_1.0.1_iphoneos-arm.deb
+Size: 3510
+MD5sum: e054cfb9ca93328aa7a0791dc1b97073
+SHA1: 649479e9e0ec20ec3ee69f4e71494d31d961f2c0
+SHA256: 4e4d1edf15893c2befa54228e3aacb8197e2bfa767bbc0e47b77cd7d8d1c5f71
+Section: Tweaks
+Description: Tweak that prevents apps being notified when you take a screenshot!
+Author: Nathan
+Name: BlockScreenshotNotification
+
 Package: com.nathan.bubblecolor
 Version: 1.0.0
 Architecture: iphoneos-arm
