@@ -1324,6 +1324,38 @@ Description: CC toggle to respring
 Author: Nathan
 Name: RespringCC
 
+Package: com.nathan.restartcarplay
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.restartcarplay_1.0_iphoneos-arm64.deb
+Size: 5022
+MD5sum: c14c9f12ff3589438b13ae4c3af6bec3
+SHA1: 37d96b17274f1d635fd5eb0c5f3097dd18580b91
+SHA256: 737766874869c4325370153c65c47ae75be67f96e9ddeea4562539cbce5ece4e
+Section: Tweaks
+Description: Tweak to add a button on the side of CarPlay to restart it!
+Author: Nathan Senter
+Name: RestartCarPlay
+
+Package: com.nathan.restartcarplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.restartcarplay_1.0_iphoneos-arm.deb
+Size: 4940
+MD5sum: c1092df118263f49c4eeb3b00b3b741f
+SHA1: 0cf724652b00033237a4121ec2b5ae54b4f2f581
+SHA256: 944e8edc222dae141712b7c8b0a4ee9b5b17bfd3368be6be2e35948167cfed3f
+Section: Tweaks
+Description: Tweak to add a button on the side of CarPlay to restart it!
+Author: Nathan Senter
+Name: RestartCarPlay
+
 Package: com.nathan.tiktokphotocomments
 Version: 0.0.1
 Architecture: iphoneos-arm64
