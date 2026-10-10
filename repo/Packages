@@ -607,6 +607,22 @@ Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's n
 Author: Nathan
 Name: DynamicNotLand
 
+Package: com.nathan.fixsnapper
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.fixsnapper_1.0_iphoneos-arm64.deb
+Size: 5996
+MD5sum: 4d9dbd5a63c21c4f3b8a38a1330da45e
+SHA1: 7b4a905d3223456eb091281a16fecf0900ff3028
+SHA256: 55645e8365404c6efb8779ae6173a810697646ed6998d13098fd69b3f7532af1
+Section: Tweaks
+Description: Fix Snapper 3 on iOS 26!
+Author: Nathan Senter
+Name: FixSnapper3
+
 Package: com.nathan.fr
 Version: 1.0
 Architecture: iphoneos-arm
