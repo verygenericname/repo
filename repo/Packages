@@ -623,6 +623,22 @@ Description: Fix Snapper 3 on iOS 26!
 Author: Nathan Senter
 Name: FixSnapper3
 
+Package: com.nathan.fixsnapper
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.fixsnapper_1.0.1_iphoneos-arm64.deb
+Size: 5258
+MD5sum: 6d64d524a1697afdf4cf2978076827b5
+SHA1: e31975cda8847f969e95fc0b46e5978af4030348
+SHA256: a9adbc80f9cdd6a9bd6de6fddbdc1b27d6de93f75463f0ed694a3cfcf6350cfb
+Section: Tweaks
+Description: Fix Snapper 3 on iOS 26!
+Author: Nathan Senter
+Name: FixSnapper3
+
 Package: com.nathan.fr
 Version: 1.0
 Architecture: iphoneos-arm
