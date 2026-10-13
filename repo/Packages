@@ -1420,6 +1420,38 @@ Description: Tweak to add a button on the side of CarPlay to restart it!
 Author: Nathan Senter
 Name: RestartCarPlay
 
+Package: com.nathan.restartcarplay
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.restartcarplay_1.1_iphoneos-arm64.deb
+Size: 9172
+MD5sum: 408bc9fe67d379f448e603ae975b6576
+SHA1: ff9c36e0c264ea4f1b73610d363714639bd6fa13
+SHA256: 46116b57c577a2c2b9f512250f66b24c86b7c5500836578370ca453f6e87f760
+Section: Tweaks
+Description: Tweak to add a button on the side of CarPlay to restart it!
+Author: Nathan Senter
+Name: RestartCarPlay
+
+Package: com.nathan.restartcarplay
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.restartcarplay_1.1_iphoneos-arm.deb
+Size: 9134
+MD5sum: 45cef8a2426ed9dfd0ef902507cd6ccd
+SHA1: 5108343fb3b681f31c38c39f3802ec5c27d3edc4
+SHA256: 81b6a8cf0fee5fe4cdd22429ce3b0c2812947b4a6af2566b5ccf6a0a55ea3f61
+Section: Tweaks
+Description: Tweak to add a button on the side of CarPlay to restart it!
+Author: Nathan Senter
+Name: RestartCarPlay
+
 Package: com.nathan.tiktokphotocomments
 Version: 0.0.1
 Architecture: iphoneos-arm64
