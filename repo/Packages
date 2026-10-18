@@ -1484,6 +1484,38 @@ Description: Tweak to add a button on the side of CarPlay to restart it!
 Author: Nathan Senter
 Name: RestartCarPlay
 
+Package: com.nathan.shuddupssh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.shuddupssh_1.0_iphoneos-arm64.deb
+Size: 2538
+MD5sum: 5e892e771b2352a931e28afd9daadeed
+SHA1: 096853d85e6043a8da7091cb963f617b4a409a74
+SHA256: 8be3792bd2e75b512a1aed6f50c974ef8f461e3d9448012e1205c43c5481d3bd
+Section: Tweaks
+Description: Stop OpenSSH from telling you it added something to the known hosts!
+Author: Nathan Senter
+Name: ShuddupSSH
+
+Package: com.nathan.shuddupssh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nathan Senter
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nathan.shuddupssh_1.0_iphoneos-arm.deb
+Size: 2450
+MD5sum: 2d3b9ef79e892d07c9067d8758009b78
+SHA1: fb85182d097efc4d10c06bf32fc26885dfa4c1f0
+SHA256: 4d2fefa8782e974c5afca7827e573b6f2eb621a96b0c5dfd129f78c5db58b18e
+Section: Tweaks
+Description: Stop OpenSSH from telling you it added something to the known hosts!
+Author: Nathan Senter
+Name: ShuddupSSH
+
 Package: com.nathan.tiktokphotocomments
 Version: 0.0.1
 Architecture: iphoneos-arm64
