@@ -276,11 +276,29 @@ Maintainer: Nathan
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode, ellekit
 Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate, ellekit
 Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/dobby.deb
+Filename: ./debs/dobby-1.0.deb
 Size: 52100
 MD5sum: 1f50d87edeedb624881d7bd070a15c82
 SHA1: 631e6745b2b2bd0b3e35047f9220a25703113a3f
 SHA256: 0bde2ed8b0c33a74c5f7d25251ac739b815fc822e476094f2b3731a0b51bdb30
+Section: Tweak Injection
+Priority: optional
+Description: DobbyHook Substrate Shim
+Author: Nathan, jmpews
+Name: DobbyShim
+
+Package: com.nathan.dobbyshim
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode, ellekit
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate, ellekit
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/dobby.deb
+Size: 62888
+MD5sum: 0e92c436f9106c6faaf3ad9afde7dc5d
+SHA1: 60a2a4bc60975ed2fcf816afe79fd2deb2618064
+SHA256: db5fbfb3427e0262ed3593e36c77b48519139ad1ede02b2fb7ade34e20fbffe4
 Section: Tweak Injection
 Priority: optional
 Description: DobbyHook Substrate Shim
